@@ -1,1 +1,0 @@
-Intro to Clojure with Fibonacci numbers
